@@ -30,7 +30,7 @@ Głównym celem aplikacji jest symulacja działania modułu analitycznego, któr
 
 ---
 
-### 💻 Technologiczny Stack:
+### Technologiczny Stack:
 * **Środowisko programistyczne (IDE):** CLion
 * **Język programowania:** C++ (Standard C++20)
 * **Zarządzanie pamięcią:** Kontenery STL (Standard Template Library)
